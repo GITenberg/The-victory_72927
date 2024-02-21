@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '7242'
     url: http://www.gutenberg.org/2009/agents/7242
     wikipedia: https://en.wikipedia.org/wiki/John_Wolcott_Adams
+covers:
+- cover_type: archival
+  image_path: 72927-h/images/cover.jpg
 creator:
   author:
     agent_name: Seawell, Molly Elliot
@@ -22,6 +25,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/43099
     - https://en.wikipedia.org/wiki/Molly_Elliot_Seawell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72927#The-victory
 gutenberg_issued: '2024-02-11'
 gutenberg_type: Text
 identifiers:
